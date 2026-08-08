@@ -53,6 +53,15 @@ Built with a custom dark-mode desktop GUI and encrypted communication protocols,
 
 ---
 
+
+## Key Features
+
+- **[ ✦ ] Mass Email Processing**: High-concurrency inbox extraction and management for Microsoft accounts.
+- **[ ✦ ] Intelligent Mail Filtering**: Keyword-based email search and automated sorting capabilities.
+- **[ ✦ ] OAuth & Modern Auth Support**: Secure login handling bypassing legacy IMAP restrictions.
+- **[ ✦ ] Proxy Rotation Engine**: Integrated proxy support (HTTP/SOCKS) to prevent rate limits and IP bans.
+
+---
 ## System Architecture
 
 ```
